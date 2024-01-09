@@ -1,0 +1,10 @@
+.footer {
+  display: flex;
+  width: 282px;
+}
+
+@media (min-width: 880px) {
+  .footer {
+    width: 880px;
+  }
+}
